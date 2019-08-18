@@ -11,11 +11,11 @@
   },
   "homepage":"https://ovinov.github.io/productshop",
   "scripts": {
-     "deploy":"gh-pages -d src"
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
