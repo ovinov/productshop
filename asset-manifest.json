@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/productshop/static/css/main.e3af3c71.chunk.css",
+    "main.css": "/productshop/static/css/main.a627e3aa.chunk.css",
     "main.js": "/productshop/static/js/main.6307369a.chunk.js",
     "main.js.map": "/productshop/static/js/main.6307369a.chunk.js.map",
     "runtime~main.js": "/productshop/static/js/runtime~main.1eb11039.js",
@@ -8,9 +8,9 @@
     "static/js/2.d0271076.chunk.js": "/productshop/static/js/2.d0271076.chunk.js",
     "static/js/2.d0271076.chunk.js.map": "/productshop/static/js/2.d0271076.chunk.js.map",
     "index.html": "/productshop/index.html",
-    "precache-manifest.167bace8685073def3c15ee7616eb08e.js": "/productshop/precache-manifest.167bace8685073def3c15ee7616eb08e.js",
+    "precache-manifest.6578f31c1f370955053dc98fbf4684f7.js": "/productshop/precache-manifest.6578f31c1f370955053dc98fbf4684f7.js",
     "service-worker.js": "/productshop/service-worker.js",
-    "static/css/main.e3af3c71.chunk.css.map": "/productshop/static/css/main.e3af3c71.chunk.css.map",
+    "static/css/main.a627e3aa.chunk.css.map": "/productshop/static/css/main.a627e3aa.chunk.css.map",
     "static/media/apple.jpg": "/productshop/static/media/apple.51374d87.jpg",
     "static/media/becon.jpg": "/productshop/static/media/becon.f2c6ed27.jpg",
     "static/media/broccoli.jpg": "/productshop/static/media/broccoli.64613f9f.jpg",
