@@ -16,8 +16,8 @@
 .productCard__img{
  margin: auto;
   align-items: center;
-  width: 80%;
-  height: 80%;
+  width: 230px;
+  height: 160px;
   display: block;
 }
 .productCard__depiction{
