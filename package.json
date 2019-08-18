@@ -9,7 +9,7 @@
     "react-router-dom": "^5.0.1",
     "react-scripts": "3.0.1"
   },
-  "homepage":"https://ovinov.github.io/productshop",
+  "homepage":"https://ovinov.github.io/productshop/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
