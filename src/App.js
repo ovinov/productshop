@@ -97,14 +97,14 @@ return {filteredProducts : this.state.products}
    isDisplayed={this.state.isDisplayed}/>
    <div className="wrapper">
   <Switch>
-  <Route  path='/basket' render = {() => <Basket
+  <Route  path='/productshop/basket' render = {() => <Basket
    basketItems={this.state.basketItems}
    handleRemoveFromBasket={this.handleRemoveFromBasket}
    handleClearBasket={this.handleClearBasket}
    handleAddToBasket={this.handleAddToBasket}/>}/>
-  <Route  path='/login' render = {()=> <Auth log = "Log In" /> } />
-  <Route  path='/signup' render= {() => <Auth log = "Sign Up" />} />
-  <Route exact path='/'  render= {() => 
+  <Route  path='/productshop/login' render = {()=> <Auth log = "Log In" /> } />
+  <Route  path='/productshop/signup' render= {() => <Auth log = "Sign Up" />} />
+  <Route exact path='/productshop/'  render= {() => 
   <div>
   <Filter category={this.state.category}
   sort={this.state.sort}
