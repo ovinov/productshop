@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/productshop/static/css/main.e3af3c71.chunk.css",
+    "main.js": "/productshop/static/js/main.6307369a.chunk.js",
+    "main.js.map": "/productshop/static/js/main.6307369a.chunk.js.map",
+    "runtime~main.js": "/productshop/static/js/runtime~main.1eb11039.js",
+    "runtime~main.js.map": "/productshop/static/js/runtime~main.1eb11039.js.map",
+    "static/js/2.d0271076.chunk.js": "/productshop/static/js/2.d0271076.chunk.js",
+    "static/js/2.d0271076.chunk.js.map": "/productshop/static/js/2.d0271076.chunk.js.map",
+    "index.html": "/productshop/index.html",
+    "precache-manifest.167bace8685073def3c15ee7616eb08e.js": "/productshop/precache-manifest.167bace8685073def3c15ee7616eb08e.js",
+    "service-worker.js": "/productshop/service-worker.js",
+    "static/css/main.e3af3c71.chunk.css.map": "/productshop/static/css/main.e3af3c71.chunk.css.map",
+    "static/media/apple.jpg": "/productshop/static/media/apple.51374d87.jpg",
+    "static/media/becon.jpg": "/productshop/static/media/becon.f2c6ed27.jpg",
+    "static/media/broccoli.jpg": "/productshop/static/media/broccoli.64613f9f.jpg",
+    "static/media/carrot.jpg": "/productshop/static/media/carrot.37510e3f.jpg",
+    "static/media/chicken.jpg": "/productshop/static/media/chicken.a3766270.jpg",
+    "static/media/corn.jpg": "/productshop/static/media/corn.bc04d512.jpg",
+    "static/media/mango.jpg": "/productshop/static/media/mango.3d0aa7d7.jpg",
+    "static/media/melon.jpg": "/productshop/static/media/melon.89b049c9.jpg",
+    "static/media/onion.jpg": "/productshop/static/media/onion.02d8d8e2.jpg",
+    "static/media/steak.jpg": "/productshop/static/media/steak.0e2c57ff.jpg",
+    "static/media/tomat.jpg": "/productshop/static/media/tomat.d52183a4.jpg"
+  }
+}
