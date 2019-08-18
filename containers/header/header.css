@@ -1,0 +1,120 @@
+.header{
+display: grid;
+grid-template-columns: 4fr 2fr;
+grid-template-rows: 1fr; 
+width: 100%;
+background-color: #2A293E;
+color: white;
+margin:0px;
+margin-bottom: 40px; 
+}
+.navbar__list{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-column-gap: 2vw;
+  padding: 0;
+}
+.header__logo{
+  margin-left: 20px;
+  text-align:left;
+  vertical-align: middle;
+  text-transform: uppercase;
+}
+.list__item{
+   border-radius:20px;
+   width: 90px;
+   list-style-type: none;
+   text-align: center;
+   vertical-align: middle;
+   display: inline-block;
+    text-transform: uppercase;
+    font-weight: 600;
+    transition: background-color 0.5s;
+   text-decoration: none;
+   height: 30px;
+   padding-top: 10px;
+   color: white;
+   vertical-align: center;
+}
+.header__hanburger{
+  width: 50px;
+  height: 50px;
+border-radius: 25%;
+background-color:#2A293E;
+position: relative;
+  display: none;
+ border: #2b2a42 solid 2px;
+ border-bottom-color:#1d1d35;
+ border-right-color: #1d1d35;
+ margin-top: 8px;
+ margin-left: 10vw;
+ margin-right: 10vw;
+}
+.header__hanburger:active{
+  border-color: #1d1d35;
+  background-color:#1d1d35;
+}
+ .header__hanburger span{
+  width: 25px;
+  height: 4px;
+  top: 47%;
+  left: 25%;
+  background-color: white;
+  position: absolute;
+  border-radius: 15%;
+}
+.header__hanburger span::after,
+.header__hanburger span::before{
+ content: "";
+ width: 25px;
+ height: 4px;
+ background-color: white;
+ position: absolute;
+ border-radius: 15%;
+}
+.header__hanburger span::before{
+transform: translateY(8px);
+}
+.header__hanburger span::after{
+transform: translateY(-8px);
+}
+.list__item:hover{
+  background-color: #438945;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+
+@media screen and (max-width: 650px){
+  .header__navbar{
+    display: none;
+  }
+  .navbar__list{
+    
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    grid-row-gap: 3vw;
+    justify-items: center;
+   
+  }
+  .header{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    }
+  .header__hanburger {
+   display: grid;
+ }
+ 
+ .mobileWrapper{
+   display: grid;
+   grid-template-columns: 4fr 2fr;
+ }
+  }
+.header__navbar__displayed{
+  display:grid;
+  grid-template-rows: 1fr;
+  background-color: #1d1d35;
+  padding: 0;
+}

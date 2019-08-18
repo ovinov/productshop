@@ -1,0 +1,61 @@
+
+.auth{
+  border: 2px solid #cccccc;
+  border-radius: 60px;
+ position: relative;
+ top: 15vh;
+margin-left:auto;
+margin-right:auto; 
+  width: 300px;
+  height: 300px;
+  background-color: #e6e6e6;
+}
+
+.auth__brand{
+ text-align: center;
+ position: relative;
+ top:20px;
+}
+.auth__form{
+  height: 200px;
+}
+.form__mail{
+    position: relative;
+    top:40px;
+    left: 40px;
+  height: 30px;
+  width: 220px;
+  margin: 0px;
+  border-radius: 10px;
+  border: 0px;
+  outline:none;
+}
+.form__password{
+  position: relative;
+  top:60px;
+  left: 40px;
+  height: 30px;
+  width: 220px;
+  margin: 0px;
+  border-radius: 10px;
+  border: 0px;
+  outline:none;
+}
+.form__btn{
+  position: relative;
+  top:80px;
+  left: 95px;
+  background-color: #438945;
+  width: 120px;
+  height: 30px;
+  border-radius: 30px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 600;
+  padding-top:10px;
+  padding-bottom: 25px;
+  color: white;
+}
+.auth__btn:active{
+  background-color: #2a552c;
+}
